@@ -3,7 +3,7 @@
 
 # Allow .java, .pom files
 !*.java
-!*.pom
+!*.xml
 
 # Allow .gitignore itself
 !.gitignore

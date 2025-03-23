@@ -10,4 +10,4 @@ Java-based inventory management system for electronic components : (transistors,
   
 - A new class will be added to securely handle the database password using a **private variable**. The password itself will be stored in a file that is **excluded from version control** and **not uploaded to this repository**.  
 - **Encryption** will be applied to the password, along with a **decryption utility** integrated within the project to ensure secure access.
-- - implementing a **menu-driven user interface** and adding features to better **sort and manage warehouse components**.
+- implementing a **menu-driven user interface** and adding features to better **sort and manage warehouse components**.

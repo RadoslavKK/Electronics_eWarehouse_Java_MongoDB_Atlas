@@ -4,7 +4,7 @@ Java-based inventory management system for electronic components : (transistors,
 ## Using : MongoDB Atlas and Maven.
 
 - This is a learning project aimed at helping me explore **MongoDB Atlas** and enhance my **Java development skills**.  
-- The project is still a work in progress—some bugs remain to be resolved.  
+- The project is still in progress-some bugs remain to be resolved.  
 
 ### Future plans include:
   
